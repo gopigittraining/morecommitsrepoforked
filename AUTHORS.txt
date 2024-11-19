@@ -10,27 +10,32 @@ Ryan W Tenney <ryan@10e.us>
 Ron Otten <r.j.g.otten@gmail.com>
 Jephte Clain <Jephte.Clain@univ-reunion.fr>
 Anton Matzneller <obhvsbypqghgc@gmail.com>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Alex Sexton <AlexSexton@gmail.com>
+Dan Heberden <danheberden@gmail.com>
+Henri Wiechers <hwiechers@gmail.com>
+Russell Holbrook <russellholbrook@gmail.com>
+Julian Aubourg <aubourg.julian@gmail.com>
+Gianni Alessandro Chiappetta <gianni@runlevel6.org>
+Scott Jehl <scott@scottjehl.com>
+James Burke <jrburke@gmail.com>
+Jonas Pfenniger <jonas@pfenniger.name>
+Xavi Ramirez <xavi.rmz@gmail.com>
+Jared Grippe <jared@deadlyicon.com>
+Sylvester Keil <sylvester@keil.or.at>
+Brandon Sterne <bsterne@mozilla.com>
+Mathias Bynens <mathias@qiwi.be>
+Timmy Willison <timmywillisn@gmail.com>
+Corey Frang <gnarf@gnarf.net>
+Anton Kovalyov <anton@kovalyov.net>
+David Murdoch <musicisair@yahoo.com>
+Josh Varner <josh.varner@gmail.com>
+Charles McNulty <cmcnulty@kznf.com>
+Jordan Boesch <jboesch26@gmail.com>
+Jess Thrysoee <jess@thrysoee.dk>
+Michael Murray <m@murz.net>
+Lee Carpenter <elcarpie@gmail.com>
+Alexis Abril <me@alexisabril.com>
+Rob Morgan <robbym@gmail.com>
 John Firebaugh <john_firebaugh@bigfix.com>
 Sam Bisbee <sam@sbisbee.com>
 Gilmore Davidson <gilmoreorless@gmail.com>
